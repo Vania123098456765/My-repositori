@@ -1,7 +1,7 @@
 # My-repositori
-Генератор обьектов класса "Robot" by A_Q_U_A_R_I_U_F
-continuation_request = input("Start programs?(print yes, else program will end)>>>")
-while continuation_request == "Yes" or continuation_request == "yes":
+    Генератор обьектов класса "Robot" by A_Q_U_A_R_I_U_F
+    continuation_request = input("Start programs?(print yes, else program will end)>>>")
+    while continuation_request == "Yes" or continuation_request == "yes":
 
     # Coздание класса "Robot"
     class Robot:
